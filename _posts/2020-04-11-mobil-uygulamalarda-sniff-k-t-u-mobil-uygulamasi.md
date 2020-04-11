@@ -14,8 +14,8 @@ Selamlar, yazı dizimizde farklı farklı uygulamaları(mobil/pc) sniff yöntemi
 
  ### Uygulamalar 📱 
  
- K.T.Ü Mobil Uygulaması: https://play.google.com/store/apps/details?id=ktu.mobil <br>
- Packet Capture Uygulaması: https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture
+ K.T.Ü Mobil Uygulaması: [KTÜ Mobil](https://play.google.com/store/apps/details?id=ktu.mobil) <br>
+ Packet Capture Uygulaması: [SSL Capture](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture)
 
 Uygulamaları indirip kurduktan sonra Packet Capture uygulamamıza giriyoruz. Uygulamamızın temel amacı kaynaktan giden verileri izleyerek bunları kullanıcının önüne getirtmek. Bu amaçla giden veriyi kolaylıkla görebiliriz. İsterseniz bir proxy oluşturarak bilgisayarınızda bulunan herhangi bir sniffer ile bu işlemi de yapabilirsiniz. Tek yapmanız gereken aynı wifi ağına bağlı olmak. Bunun sebebi proxy üzerinden geçecek olan dataları belirli bir adresten görüntüleyebilmenize sebep olacaktır. Mobil içinde vermiş olduğum uygulama aynı işlemleri yapmakta. Kaynak yani sizin bilgisayarınız, telefonunuz, tabletiniz veya herhangi bir teknolojik ürününüzden(internete bağlı) karşı tarafa giden verileri gitmeden önce paketleri görüntülemesidir. 
 
