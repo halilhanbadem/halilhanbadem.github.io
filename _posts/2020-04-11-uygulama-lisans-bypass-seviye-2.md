@@ -68,8 +68,8 @@ Biraz yukarı doğru geldiğimde **0040B89A** adresinde `JE` yani bir şart gör
 
 ![](https://i.hizliresim.com/6DOndE.png)
 
- ### 80x86 komut setinde JE ile JNE farkı? ❓️
-` JE` bir şart içerir. Bu şart doğru ise bunu yap anlamına gelmektedir. `JNE` veya eş değeri olan `JNZ` komutu ise bu şart yanlış ise bunu yap demektir. Yani biz yanlış bir veri girdiğimizde mantıken doğru olan keyi algılamış gibi bizi lisanslaması gerekmekte. 80x86 komut seti ile bu tip müdahalelerde bulunabilirsiniz.
+ ### 80x86 komut setinde JE ile JNE farkı? ❓️ <br>
+`JE` bir şart içerir. Bu şart doğru ise bunu yap anlamına gelmektedir. `JNE` veya eş değeri olan `JNZ` komutu ise bu şart yanlış ise bunu yap demektir. Yani biz yanlış bir veri girdiğimizde mantıken doğru olan keyi algılamış gibi bizi lisanslaması gerekmekte. 80x86 komut seti ile bu tip müdahalelerde bulunabilirsiniz.
 
 Şimdi biz bu komutu JNE yaparak bypass etmeye çalışacağız bakalım sonuç bize ne gelecek. İşlem adımlarımız;
 
