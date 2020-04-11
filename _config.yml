@@ -1,0 +1,18 @@
+title: Halil Han BADEM
+iconURL: assets/default-icon.png
+theme: jekyll-theme-leaf
+
+# for a clean URL
+permalink: :slug
+
+social:
+  twitter: halilhanbadem
+  github: halilhanbadem
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+### comments & analytics
+hyvor_talk_website_id: 431
+google_analytics: UA-71794509-4
