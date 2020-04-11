@@ -1,10 +1,11 @@
 ---
-title: Contact
+title: İletişim
 layout: page
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
-
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
-
-(Change this by editing `contact.md` file)
+# Bana aşağıdaki adreslerden iletişim sağlayabilirsiniz:
+- halilhanbadem[at]gmail[dot]com
+- halilhanbadem[at]protonmail[dot]com
+- twitter.com/halilhanbadem
+- instagram.com/halilhanbademm
+- facebook.com/halilhanbadem
