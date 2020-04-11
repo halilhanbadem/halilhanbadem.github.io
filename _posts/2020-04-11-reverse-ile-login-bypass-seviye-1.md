@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Halil Han Badem
-title: Reverse ile Login ByPass - Seviye #1
+title: Reverse ile Login ByPass - Seviye 1
 ---
 
 ### Giriş 🗣️ 
