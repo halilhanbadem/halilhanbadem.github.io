@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Halil Han Badem
-title: Mobil Uygulamalarda Sniff: K.T.Ü Mobil Uygulaması
+title: Mobil Uygulamalarda Sniff - K.T.Ü Mobil Uygulaması
 ---
 
 ### Başlangıç ⭐️
