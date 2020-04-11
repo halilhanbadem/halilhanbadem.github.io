@@ -1,5 +1,5 @@
 title: Halil Han BADEM
-iconURL: blog_ikon.png
+iconURL: assets/blog_ikon.png
 theme: jekyll-theme-leaf
 
 # for a clean URL
@@ -8,6 +8,7 @@ permalink: :slug
 social:
   twitter: halilhanbadem
   github: halilhanbadem
+  instagram: halilhanbademm 
 
 plugins:
  - jekyll-feed
