@@ -4,10 +4,10 @@ author: Halil Han Badem
 title: Mobil Uygulamalarda Sniff - K.T.Ü Mobil Uygulaması
 ---
 
-### Başlangıç ⭐️
+  ### Başlangıç ⭐️
   Selamlar, yazı dizimizde farklı farklı uygulamaları(mobil/pc) sniff yöntemi ile izleyip elimize nelerin geçeceğine bakacağız. Bunları yaparken hem öğrenip hem de varsa uygulamalarda bulunan hataları gözlemleyeceğiz.
 
- ### Uyarı 🗣️
+### Uyarı 🗣️
 > Bu eylem Karadeniz Teknik Üniversitesine bildirilmiştir. Eylem herhangi bir sorun teşkil etmediği cevabı alındığından yazıda uygulamaya yer verilmiştir. Web servisleri kullanmaya kanunen izin verilmemektedir. Klon uygulama yapmak ve kullanıma sunmak, materyalleri kullanmak idari merciiler tarafından incelenir eğer uygun görülürse hapis cezasına kadar giden hukuki yargılamalar ile sonuçlandırılabilir. Uygulama bazlı durumlar için mail adresimiz ile iletişime geçebilirsiniz: halilhanbadem[at]protonmail[dot]com
 
  ### Uygulamalar 📱
