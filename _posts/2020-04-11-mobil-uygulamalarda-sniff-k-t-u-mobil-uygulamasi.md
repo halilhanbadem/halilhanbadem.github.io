@@ -12,7 +12,8 @@ Selamlar, yazı dizimizde farklı farklı uygulamaları(mobil/pc) sniff yöntemi
 > Bu eylem Karadeniz Teknik Üniversitesine bildirilmiştir. Eylem herhangi bir sorun teşkil etmediği cevabı alındığından yazıda uygulamaya yer verilmiştir. Web servisleri kullanmaya kanunen izin verilmemektedir. Klon uygulama yapmak ve kullanıma sunmak, materyalleri kullanmak idari merciiler tarafından incelenir eğer uygun görülürse hapis cezasına kadar giden hukuki yargılamalar ile sonuçlandırılabilir. Uygulama bazlı durumlar için mail adresimiz ile iletişime geçebilirsiniz: halilhanbadem[at]protonmail[dot]com 
 
 
- ### Gerekli Uygulamalar
+### Gerekli Uygulamalar
+ 
  K.T.Ü Mobil Uygulaması: [KTÜ Mobil](https://play.google.com/store/apps/details?id=ktu.mobil) <br>
  Packet Capture Uygulaması: [SSL Capture](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture)
 
@@ -78,23 +79,23 @@ K.T.Ü Mobil uygulamasını apk şekli ile bilgisayarımıza indirelim. Geçerli
 
 Eğer 404 veya ulaşma hatası alıyorsanız Google üzerinden kendinizde indirebilirsiniz. İndirme işlemi tamamlandıktan sonra APK decompile etmek için gerekli aracımızı açıyoruz. Kullandığım araç APK Easy Tool. İsterseniz farklı tool kullanabilirsiniz. 
 
-[img]https://i.imgyukle.com/2019/10/08/ECegX1.png[/img]
+![img](https://i.imgyukle.com/2019/10/08/ECegX1.png)
 
 İlk olarak decompiler uygulamamız ile indirmiş olduğumuz APK dosyasını açıyoruz.
 
-[img]https://i.imgyukle.com/2019/10/08/ECeheI.png[/img]
+![img](https://i.imgyukle.com/2019/10/08/ECeheI.png)
 
 Sonrasında Decompiler diyerek işlemimizi başlatıyoruz.
 
-[img]https://i.imgyukle.com/2019/10/08/ECecnA.png[/img]
+![img](https://i.imgyukle.com/2019/10/08/ECecnA.png)
 
 Bu işlem tamamladıktan sonra uygulamanın Decompiler ettiği dosyaların olduğu klasöre gidiyoruz
 
-[img]https://i.imgyukle.com/2019/10/08/ECejMH.png[/img]
+![img](https://i.imgyukle.com/2019/10/08/ECejMH.png)
 
 Bazen ayrı şekilde yani kütüphane vb. bir biçimde bağlantılar olabilir. Bu yüzden MainActivity dosyası yerine başka dosyalarda da önemli bilgiler yer alıyor. Biz tabi direkt MainActivity dosyasına baktığımızda tekrar bilgiler elimize gelmiş oluyor.
 
-[img]https://i.imgyukle.com/2019/10/08/ECeOBU.png[/img]
+![img](https://i.imgyukle.com/2019/10/08/ECeOBU.png)
 
 > Blurlu alanlar bilgilerin içerdiği alandır. Sitemiz hiçbir sisteme zarar vermeden pentest testlerinin paylaşımını desteklemektedir. 
 
