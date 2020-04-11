@@ -8,7 +8,6 @@ permalink: :slug
 social:
   twitter: halilhanbadem
   github: halilhanbadem
-  instagram: halilhanbademm 
 
 plugins:
  - jekyll-feed
