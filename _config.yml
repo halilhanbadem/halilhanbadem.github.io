@@ -1,18 +1,32 @@
-title: Halil Han BADEM
-iconURL: assets/blog_ikon.png
-theme: jekyll-theme-leaf
+title: Hacker-Blog
+description: "Halil Han Badem - Developer, Reverse & Security Blog"
+author:
+  name: "Halil Han Badem"
+  email: "halilhanbadem@protonmail.com"
+  url: "https://halilhanbadem.com"
 
-# for a clean URL
-permalink: :slug
+baseurl: /
 
-social:
-  twitter: halilhanbadem
-  github: halilhanbadem
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
 
-### comments & analytics
-hyvor_talk_website_id: 431
-google_analytics: UA-71794509-4
+# Custom variables
+owner : "Halil Han Badem"
+year : "2020"
