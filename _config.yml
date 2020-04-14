@@ -1,32 +1,41 @@
-title: Halil Han Badem - Developer, Reverse & Security Blog
-description: "Halil Han Badem - Developer, Reverse & Security Blog"
+# Site settings
+title:          Halil Han Badem - Developer, Reverse & Security
+description:    "Halil Han Badem - Developer, Reverse & Security Blog"
+baseurl:        "/"
+url:            "https://white.halilhanbadem.com"
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
 author:
-  name: "Halil Han Badem"
-  email: "halilhanbadem@protonmail.com"
-  url: "https://halilhanbadem.com"
+  name:         Halil Han Badem
+  url:          https://halilhanbadem.com
+  email:        halilhanbadem@protonmail.com
 
-baseurl: /
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
 
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 10
-paginate_path: /page/:num/
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-future: true
+# Gems
 plugins:
-  - jekyll-seo-tag
+  - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
 
-# Custom variables
-owner : "Halil Han Badem"
-year : "2020"
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       10
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+disqus:         jekyll-tale
